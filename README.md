@@ -181,11 +181,6 @@ Zero Downtime: Fault-tolerant design
 - **Real performance metrics** from actual pipeline runs
 - **Production-ready patterns** with error handling & monitoring
 
-## **Live Dashboard Screenshots**
-### **Executive Dashboard - Revenue Analytics**
-![Executive Dashboard](images/newplot.png)
-*Real-time revenue tracking with $14.3M+ processed*
-
 ---
 
 ## **Quick Access**
