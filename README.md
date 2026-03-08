@@ -30,14 +30,6 @@
 ![Executive Dashboard](images/executive_dashboard.png)
 *Real-time revenue tracking with $14.3M+ processed*
 
-### **Portfolio Performance Metrics**  
-![Portfolio Metrics](images/portfolio_metrics.png)
-*Complete pipeline performance with 95% data quality*
-
-### **System Architecture Overview**
-![Architecture](images/architecture_diagram.png)
-*Enterprise-grade data engineering platform*
-
 ## **Technical Architecture**
 
 ### **Enterprise Data Stack Simulation**
@@ -121,22 +113,6 @@ https://www.kaggle.com/code/eugenewata/sales-flow-analytics-data-engineering-por
 
 ---
 
-## **Live Demonstrations Available**
-
-### **5-Minute Interview Demo**
-- Complete architecture explanation
-- Live dashboard interaction  
-- Real-time streaming demonstration
-- Performance metrics walkthrough
-
-### **Technical Deep Dive**
-- Code walkthrough with best practices
-- Scaling strategies discussion
-- Problem-solving approach examples
-- Production considerations review
-
----
-
 ##  **Why This Project Stands Out**
 
 ### **Complete End-to-End Implementation**
@@ -156,7 +132,7 @@ Professional presentation with talking points and live demonstration
 
 ---
 
-## 🛠️ **Technology Stack**
+## **Technology Stack**
 
 | Category         | Technologies         | Purpose                         |
 |------------------|----------------------|---------------------------------|
@@ -191,34 +167,33 @@ Zero Downtime: Fault-tolerant design
 4. **Real-time Processing**: Event-driven patterns, latency optimization
 5. **Business Value**: ROI calculation, stakeholder communication
 
-### **Demonstration Capabilities**
-- Live code walkthrough with explanation
-- Interactive dashboard navigation
-- Real-time streaming performance
-- Architecture scaling discussion
-
 ---
-
-## **Contact & Demo**
 
 **Ready for live demonstration and technical discussion**
 
+### **Complete Portfolio Walkthrough**
+**[View Live Interactive Demo on Kaggle](https://www.kaggle.com/code/eugenewata/sales-flow-analytics-data-engineering-portfolio)**
+
+**What you'll see:**
+- **Complete code execution** with live results ($14.3M processed!)
+- **Interactive dashboards** you can explore and modify
+- **Step-by-step implementation** with professional documentation  
+- **Real performance metrics** from actual pipeline runs
+- **Production-ready patterns** with error handling & monitoring
+
+## **Live Dashboard Screenshots**
+### **Executive Dashboard - Revenue Analytics**
+![Executive Dashboard](images/executive_dashboard.png)
+*Real-time revenue tracking with $14.3M+ processed*
+
+---
+
+## **Quick Access**
+- **Live Demo**: [Kaggle Notebook](https://www.kaggle.com/code/eugenewata/sales-flow-analytics-data-engineering-portfolio)
+- **Source Code**: [GitHub Repository](https://github.com/genowa-ai/salesflow-analytics-platform)  
 - **Email**: [genowaai@proton.me]
-- **Live Demo**: [https://www.kaggle.com/code/eugenewata/sales-flow-analytics-data-engineering-portfolio]
 - **Portfolio**: [Additional Projects]
 
----
-
-## **Project Status**
-
-**Complete & Interview Ready**
-- Full implementation finished
-- Documentation complete  
-- Performance benchmarks validated
-- Interview presentation prepared
-- Live demo available
-
----
 
 *Built to demonstrate enterprise-level data engineering capabilities through practical implementation. This project showcases production-ready skills using industry-standard patterns and best practices.*
 
