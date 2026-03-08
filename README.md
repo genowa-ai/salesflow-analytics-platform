@@ -27,7 +27,7 @@
 ## **Live Dashboard Screenshots**
 
 ### **Executive Dashboard - Revenue Analytics**
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](images/newplot.png)
 *Real-time revenue tracking with $14.3M+ processed*
 
 ## **Technical Architecture**
@@ -183,7 +183,7 @@ Zero Downtime: Fault-tolerant design
 
 ## **Live Dashboard Screenshots**
 ### **Executive Dashboard - Revenue Analytics**
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](images/newplot.png)
 *Real-time revenue tracking with $14.3M+ processed*
 
 ---
