@@ -104,7 +104,7 @@ Stream Events → Real-time → Cache Layer → Monitoring System
 ### **1. Interactive Notebook**
 ```bash
 # View complete implementation
-https://www.kaggle.com/[your-username]/salesflow-analytics-platform
+https://www.kaggle.com/code/eugenewata/sales-flow-analytics-data-engineering-portfolio
 ```
 
 ### **2. Key Features Demo**
@@ -204,7 +204,7 @@ Zero Downtime: Fault-tolerant design
 **Ready for live demonstration and technical discussion**
 
 - **Email**: [genowaai@proton.me]
-- **Live Demo**: [Kaggle Notebook Link]
+- **Live Demo**: [https://www.kaggle.com/code/eugenewata/sales-flow-analytics-data-engineering-portfolio]
 - **Portfolio**: [Additional Projects]
 
 ---
