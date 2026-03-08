@@ -24,6 +24,20 @@
 
 ---
 
+## **Live Dashboard Screenshots**
+
+### **Executive Dashboard - Revenue Analytics**
+![Executive Dashboard](images/executive_dashboard.png)
+*Real-time revenue tracking with $14.3M+ processed*
+
+### **Portfolio Performance Metrics**  
+![Portfolio Metrics](images/portfolio_metrics.png)
+*Complete pipeline performance with 95% data quality*
+
+### **System Architecture Overview**
+![Architecture](images/architecture_diagram.png)
+*Enterprise-grade data engineering platform*
+
 ## **Technical Architecture**
 
 ### **Enterprise Data Stack Simulation**
@@ -189,7 +203,7 @@ Zero Downtime: Fault-tolerant design
 
 **Ready for live demonstration and technical discussion**
 
-- **Email**: [your-email@example.com]
+- **Email**: [genowaai@proton.me]
 - **Live Demo**: [Kaggle Notebook Link]
 - **Portfolio**: [Additional Projects]
 
